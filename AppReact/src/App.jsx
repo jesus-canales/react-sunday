@@ -1,8 +1,14 @@
+import { Fragment } from 'react';
 import Mensaje from './componente/Mensaje'
 
-function App(){
+function App() {
 
-  return <Mensaje />
+  return (
+    <>
+      <Mensaje />
+      <Mensaje />
+    </>
+  );
 }
 
 export default App;
