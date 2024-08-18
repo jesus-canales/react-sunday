@@ -8,7 +8,10 @@ function App() {
   return (
     <>
       <Encabezado />
-      <Ciudad />
+      <Ciudad
+      nombre="Lima"
+      descripcion="La capital del Perú"
+      imagen="https://www.peru.travel/contenido/general/imagen/es/643/1.1/lima-plaza-de-armas-consejos.jpg" />
       <Pie />
     </>
   );
