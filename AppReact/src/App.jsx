@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import Mensaje from './componente/Mensaje';
+import Ciudad from './componente/Ciudad'
 import Encabezado from './componente/Encabezado';
 import Pie from './componente/Pie'
 
@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Encabezado />
-      <Mensaje />
+      <Ciudad />
       <Pie />
     </>
   );
