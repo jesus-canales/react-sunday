@@ -20,3 +20,7 @@ Desde el terminal ingresamos a la carpeta de proyecto: cd [nombre-carpeta] y pul
 Instalamos las librerias faltantes, desde el terminal digitar: mpm install y pulsar enter
 
 Para ejecutar el proyecto, digite en el Terminal: npm run dev y pulse enter
+
+Para terminar la ejecución de la aplicación debemos pulsar la combinación de teclas Ctrl + C
+
+Antes de crear la aplicacion verificamos que no estamos dentro de la carpeta de otra aplicación creada
