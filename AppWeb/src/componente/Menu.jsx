@@ -15,7 +15,7 @@ function Menu() {
               height="30"
               className="d-inline-block align-top"
             />{' '}
-            React Bootstrap
+            Mi Web con React JS
           </Navbar.Brand>
         </Container>
       </Navbar>
