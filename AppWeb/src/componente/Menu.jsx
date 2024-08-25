@@ -2,7 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../image/logo-react.png';
 
-function BrandExample() {
+function Menu() {
   return (
     <>
       <Navbar className="bg-body-tertiary">
@@ -23,4 +23,4 @@ function BrandExample() {
   );
 }
 
-export default BrandExample;
+export default Menu;
