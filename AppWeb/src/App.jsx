@@ -6,7 +6,12 @@ import Formulario from "./componente/Formulario";
 function App() {
   return (
     <>
+      <div className="container container-fluid">
+        <br />
+        <br />
+        <h1>Registro de Datos</h1>
       <Formulario />
+      </div>
     </>
   );
 }
