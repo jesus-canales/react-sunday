@@ -1,10 +1,11 @@
 import { Fragment } from "react"
-import HolaMundo from "./componente/HolaMundo";
+import BrandExample from "./componente/Menu";
+import 'bootstrap/dist/css/bootstrap.min.css'
 
-function App(){
-  return(
+function App() {
+  return (
     <>
-    <HolaMundo/>
+      <BrandExample />
     </>
   );
 }
